@@ -5,7 +5,15 @@ body {
   background-image: url('../images/fondo.png');
 }
 
-.main-container .row {
+.navbar.container {
+  margin-top: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  border: none;
+}
+
+
+.main-container .row section{
   background-color: #fff;
 }
 
