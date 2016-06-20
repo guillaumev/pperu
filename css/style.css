@@ -32,6 +32,7 @@ footer,
 /** Top bar **/
 .language-switcher-locale-url a {
   color: #5a5858;
+  font-weight: bold;
 }
 
 /** Footer **/
