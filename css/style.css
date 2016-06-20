@@ -52,8 +52,9 @@ footer,
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #5a5858;
+  color: #000;
   border-bottom: 3px solid #f97d45;
+  background-color: #fff;
 }
 
 .navbar-default .navbar-nav > .active > a,
