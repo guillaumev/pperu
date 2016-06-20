@@ -9,7 +9,8 @@ body {
   background-color: #fff;
 }
 
-.region-footer {
+.region-footer,
+#page-header {
   background-color: #000;
   color: #fff;
 }
