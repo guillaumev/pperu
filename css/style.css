@@ -65,6 +65,16 @@ footer,
   border-bottom: 3px solid #f97d45;
 }
 
+/** Article **/
+h1.page-header {
+  display: none;
+}
+
+.field-name-field-content-image img {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 
 /** Footer **/
 .footer a {
