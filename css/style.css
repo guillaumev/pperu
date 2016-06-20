@@ -1,8 +1,15 @@
 /**
  * Styles for paragliding peru
  */
+@font-face {
+  font-family: "Bree Light";
+  src: url("../fonts/bree_light.ttf");
+}
+
 body {
   background-image: url('../images/fondo.png');
+  font-family: 'Bree Light', sans-serif;
+  font-size: 20px;
 }
 
 .navbar.container {
