@@ -13,12 +13,13 @@ body {
 }
 
 
-.main-container .row {
+.main-container .row,
+#navbar {
   background-color: #fff;
 }
 
 footer,
-#page-header {
+#page-header .container {
   background-color: #000;
   color: #fff;
 }
