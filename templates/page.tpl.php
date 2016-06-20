@@ -74,18 +74,18 @@
  */
 ?>
 
-<div class="container">
-  <header role="banner" id="page-header">
+<header role="banner" id="page-header">
+  <div class="container">
     <?php if (!empty($site_slogan)): ?>
       <p class="lead"><?php print $site_slogan; ?></p>
     <?php endif; ?>
 
     <?php print render($page['header']); ?>
-  </header> <!-- /#page-header -->
-</div>
+  </div>
+</header> <!-- /#page-header -->
 
 
-<header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
+<header id="navbar" role="banner" class="container navbar-default">
   <div class="<?php print $container_class; ?>">
     <div>
       <?php if ($logo): ?>
