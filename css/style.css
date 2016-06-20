@@ -48,6 +48,11 @@ footer,
   font-weight: bold;
 }
 
+.language-switcher-locale-url a:hover,
+.language-switcher-locale-url li.active a {
+  color: #f97d45;
+}
+
 /** Menu **/
 .navbar-default .navbar-nav > li > a {
   color: #5a5858;
