@@ -9,3 +9,11 @@ body {
   background-color: #fff;
 }
 
+.logo img {
+  width: 100%;
+}
+
+.region-footer {
+  background-color: #000;
+}
+
