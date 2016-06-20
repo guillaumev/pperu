@@ -43,6 +43,13 @@ footer,
 }
 
 /** Menu **/
+.navbar-default .navbar-nav > li > a {
+  color: #5a5858;
+  background-color: #fff;
+  font-weight: bold;
+  font-size: 135%;
+}
+
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
