@@ -42,6 +42,15 @@ footer,
   font-weight: bold;
 }
 
+/** Menu **/
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #5a5858;
+  background-color: #fff;
+}
+
+
 /** Footer **/
 .footer a {
   color: #fff;
