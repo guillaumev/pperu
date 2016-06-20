@@ -13,13 +13,20 @@ body {
 }
 
 
-.main-container .row section{
+.main-container .row {
   background-color: #fff;
+  margin-right: 0;
+  margin-left: 0;
 }
 
-.region-footer,
+footer,
 #page-header {
   background-color: #000;
   color: #fff;
+}
+
+.footer {
+  margin-top: 0;
+  border: none;
 }
 
