@@ -43,6 +43,14 @@ footer,
 }
 
 /** Top bar **/
+ul.language-switcher-locale-url {
+  list-style: none;
+}
+
+ul.language-switcher-locale-url li {
+  display: inline;
+}
+
 .language-switcher-locale-url a {
   color: #5a5858;
   font-weight: bold;
