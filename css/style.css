@@ -98,6 +98,10 @@ h1.page-header {
   padding-top: 10px;
 }
 
+.field-name-body img {
+  margin-right: 50px;
+}
+
 h3 {
   color: #f97d45;
   font-weight: bold;
