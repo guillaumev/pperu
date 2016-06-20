@@ -81,6 +81,10 @@ h1.page-header {
   margin-left: auto;
 }
 
+.field-name-body {
+  padding-top: 10px;
+}
+
 
 /** Footer **/
 .footer a {
