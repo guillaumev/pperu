@@ -29,3 +29,13 @@ footer,
   border: none;
 }
 
+/** Top bar **/
+.language-switcher-locale-url a {
+  color: #5a5858;
+}
+
+/** Footer **/
+.footer a {
+  color: #000;
+}
+
