@@ -117,3 +117,7 @@ h4 {
   color: #fff;
 }
 
+/** Front page **/
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
